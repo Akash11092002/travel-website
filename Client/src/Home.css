@@ -1,0 +1,49 @@
+/* src/Landing.css */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .landing-container {
+    text-align: center;
+   
+    height: 100vh;
+    background-image: url('https://www.itsfrontporch.com/wp-content/uploads/6359524176194484221446729975_travel-01.jpg'); /* Replace with an actual image URL */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .landing-container h1 {
+    font-size: 48px;
+    margin-bottom: 350px;
+  }
+  
+  .landing-container p {
+    font-size: 24px;
+   
+  }
+  
+  .landing-container button {
+   
+    font-size: 18px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .landing-container button:hover {
+    background-color: #0056b3;
+  }
+  
