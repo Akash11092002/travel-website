@@ -82,10 +82,7 @@ project-root/
 Contributing
 Provide guidelines if you welcome contributions from other developers. Include instructions on how to submit issues and pull requests.
 
-License
-Specify the license under which your project is distributed. For example:
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to customize this template according to your specific project details and requirements. A well-written README not only helps users understand your project but also encourages collaboration and contributions from the community.
 
